@@ -10,12 +10,12 @@
  */
 
 // Index            0.     1.         2.          3
-const courses = ['HTML', 'CSS', 'Javascript', 'React']
+// const courses = ['HTML', 'CSS', 'Javascript', 'React']
 // Length           1.     2.        3.           4
 // const array = [22, true, 'ferfewfer']
 // console.log(array)
 // console.log(courses.length)
 
-const lastIndex =courses.length -1
+// const lastIndex =courses.length -1
 
-console.log(courses)
+// console.log(courses)

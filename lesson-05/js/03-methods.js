@@ -32,8 +32,8 @@
 //   courses.push(222)
 // console.log(courses)
 
-const courses = ["JS", "HTML"];
+// const courses = ["JS", "HTML"];
 
-const deletedValue = courses.pop(0)
-console.log(deletedValue)
-console.log(courses)
+// const deletedValue = courses.pop()
+// console.log(deletedValue)
+// console.log(courses)
